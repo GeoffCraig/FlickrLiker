@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<com.google.android.material.chip.Chip xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@android:color/darker_gray"
+    android:textColor="@color/white"
+    android:theme="@style/Theme.FlickrLiker"
+    style="@style/Widget.MaterialComponents.Chip.Entry"
+    app:closeIcon="@drawable/cancel"
+    app:closeIconEnabled="true"
+    app:checkedIconEnabled="false"
+    > -->
+    <com.google.android.material.chip.Chip
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/chipEntryGroup3"
+        style="@style/Widget.MaterialComponents.Chip.Entry"
+        android:theme="@style/Theme.FlickrLiker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chip Entry 3"   >
+
+</com.google.android.material.chip.Chip>

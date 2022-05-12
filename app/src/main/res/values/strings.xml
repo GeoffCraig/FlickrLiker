@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Flickr Liker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_bar_about">About</string>
+    <string name="app_bar_help">Help</string>
+
+    <!-- About Dialog Menu Strings -->
+    <string name="about_dialog_title">About This Program</string>
+    <string name="about_me_dialog">This was written in all it\'s bad UI
+        \nglory by me, Geoff Craig.
+        \nAll photos are provided by the Flickr.
+        \n
+        \nAny similarities to code living or dead
+        \nis purely accidental, expect where commented.
+        \n
+        \nSpecial thanks to our professor Josh Bond</string>
+    <string name="about_closing_countdown">This window will close in </string>
+    <string name="about_closing_countdown_seconds"> seconds...</string>
+
+    <!-- Help Dialog Menu -->
+    <string name="help_me">Help Me!</string>
+    <string name="what_do_i_do">Welcome!
+        \n\nGo to the Photo tab to see photos from Flickr.
+        \n\nIf you see one you like click it and favorite it.
+        \n\nGo to the Favorites tab to see all your favorites.
+        \n\nGo to the Settings tab to set a list of search terms
+        \n\nI hope you enjoy the FlickrLiker!
+        \n\n
+    </string>
+
+    <!-- Settings Fragment -->
+    <string name="settings_search_terms">Add Search Term</string>
+    <string name="settings_your_search_terms">Your Search Terms</string>
+    <string name="settings_title">Enter up to three search terms</string>
+</resources>
